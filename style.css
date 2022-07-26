@@ -45,7 +45,7 @@ margin-top: 20px;
   .square{
     position:absolute;
     z-index: -1;
-    top:200px;
+    top:230px;
     left:100px;
   }
   .star{
